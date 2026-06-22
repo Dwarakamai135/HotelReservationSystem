@@ -1,0 +1,3 @@
+101,Standard,1000.0,false,,,
+102,Deluxe,2000.0,false,,,
+103,Suite,3000.0,false,,,
